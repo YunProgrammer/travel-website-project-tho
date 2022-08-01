@@ -1,0 +1,62 @@
+.packagescontainer{
+    padding: 80px 50px;
+    /* background: url(../../images/pexels-asad-photo-maldives-1320670.jpg); */
+}
+.imgcontainer{
+    width: 500px;
+    height: 600px;
+}
+.packcontainer{
+    gap: 20px;
+    text-align: center;
+}
+.packcontainer .packTitle{
+    font-size: 1.7rem;
+    font-weight: bold;
+    padding-bottom: 25px;
+}
+
+.packcontainer .packDescript{
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+.packcontainer2{
+    padding-top: 100px;
+    background-color: rgba(44, 33, 33, 0.954);
+}
+.packcontainer2 .packDescriptTitle{
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.packcontainer .packDuration{
+    padding-bottom: 10px;
+    font-weight: bold;
+
+}
+
+.packcontainer .packExpDate{
+    font-size: 12px;
+    padding-bottom: 20px;
+    font-weight:inherit;
+    color:#666;
+
+}
+.stars i{
+    font-size:1.7rem;
+    color:var(--orange);
+  }
+
+.price{
+    font-size: 1.5rem;
+    color:#333;
+    padding-top: 1rem;
+}
+
+.price span{
+    color:#666;
+    font-size: 1rem;
+    text-decoration: line-through;
+  }

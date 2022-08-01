@@ -1,0 +1,45 @@
+#customized-dialog-title{
+    color: white;
+    position:relative;
+    text-align: center;
+    background: #fc4a1a;
+    background: -webkit-linear-gradient(to top, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#DialogContent{
+    background-color: orange ;
+}
+
+
+#cardcontent label {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+#cardcontent CardContent Grid TextField placeholder{
+    font-size: 18px;
+
+}
+#card {
+    background-color: orange;
+
+}
+.Gridcontainer{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    border: none;
+}
+.contactBtn{
+    background: #fc4a1a;
+    background: -webkit-linear-gradient(to right, #ff512f, #dd2476);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff512f, #dd2476); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 25px;
+    padding: 5px 20px;
+    transition: all 600ms;
+}
+.contactBtn:hover{
+    background: #fc4a1a;
+    background: -webkit-linear-gradient(to right, #dd2476, #ff512f);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #dd2476, #ff512f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}

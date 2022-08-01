@@ -1,0 +1,19 @@
+.boxcontainer{
+    padding: 200px 50px;
+
+}
+
+.myBtn{
+    background-color: rgb(255, 166, 0);
+    border: 1px solid rgb(255, 166, 0);
+    border-radius: 5px;
+    padding: 5px 20px;
+    transition: all 600ms;
+    color: white;
+    font-size: 10px;
+    margin-right: 0px;
+
+}
+.myBtn:hover{
+    background-color:rgb(255, 115, 0);
+}
